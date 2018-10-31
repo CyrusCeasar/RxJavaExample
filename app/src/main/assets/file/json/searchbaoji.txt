@@ -1,0 +1,27 @@
+{
+     "order_num": 2,
+     "baojiList": [
+         {
+             "uid": "654654654654",
+             "icon": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3161040278,2974641019&fm=23&gp=0.jpg",
+             "username": "欢乐颂",
+             "sex": 1,
+             "wzry": "华龙大话",
+             "lol": "最强王者",
+             "order_num": "已接155999单",
+             "score": "综合评分4.5",
+             "online": false
+         },
+         {
+             "uid": "654654654654",
+             "icon": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=729621825,554694092&fm=23&gp=0.jpg",
+             "username": "阿Q",
+             "sex": 1,
+             "wzry": "阿斯蒂芬",
+             "lol": "最强王者",
+             "order_num": "已接999单",
+             "score": "综合评分4.5",
+             "online": true
+         }
+     ]
+ }
